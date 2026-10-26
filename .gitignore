@@ -1,0 +1,20 @@
+# 隐私与配置（绝对不能上传）
+*.pem
+config.ini
+quant_trade.log
+
+# 编译与缓存
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# 打包文件
+build/
+dist/
+*.spec

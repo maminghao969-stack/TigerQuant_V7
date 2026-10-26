@@ -1,0 +1,7 @@
+class Config:
+    WEIGHT_TECH = 0.2
+    WEIGHT_MONEY = 0.2
+    WEIGHT_FUND = 0.2
+    WEIGHT_SENT = 0.1
+    WEIGHT_MACRO = 0.1
+    WEIGHT_AI = 0.2
